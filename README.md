@@ -29,7 +29,7 @@ foreach é uma estrutura de repetição da linguagem de programação PHP. Ele �
  `unset()`  
   🔸destrói as variáveis especificadas.    
 
-  👩‍💻TECNOLOGIAS UTILIZADAS👩‍💻 
+  👩‍💻TECNOLOGIAS UTILIZADAS👩‍💻   
   🔹PHP  
   🔹VSCODE  
   🔹HTML  
